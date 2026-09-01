@@ -21,7 +21,6 @@ This project focuses on cleaning, validating, and analyzing a large ride-hailing
 - DuckDB
 - Python
 - Pandas
-- Power BI
 
 ## Business Analysis
 
